@@ -13,7 +13,7 @@ Supongamos que queremos buscar los cromos de "The witcher 3" y de "Elden Ring".
 Lo que deberiamos ingresar en el programa sería:
 https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/,https://store.steampowered.com/app/1245620/ELDEN_RING/
 
---
+---
 
 Preview
 
