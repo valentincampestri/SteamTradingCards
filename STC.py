@@ -24,7 +24,7 @@ while cantidad < len(linkDeJuegos2):
 		else:
 			inicio += letra
 
-	linkCromosDelJuego = "https://steamcommunity.com/market/search?appid=753&category_753_Game%5B%5D=tag_app_" + appId + "&q=%22cromo%22"
+	linkCromosDelJuego = "https://steamcommunity.com/market/search?appid=753&category_753_Game%5B%5D=tag_app_" + appId + "&q=trading"
 
 	if (inicio == "https://store.steampowered.com/app/") and len(appId) > 0:
 		result = requests.get(linkDeJuegos2[cantidad])
