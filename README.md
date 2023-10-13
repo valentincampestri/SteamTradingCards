@@ -1,16 +1,16 @@
 # SteamTradingCards
 
-Este programa nos ayuda a encontrar con facilidad los cromos de los juegos que quieras. Es ideal para farmear, ya que nos permitirá calcular más rápido si el juego es rentable o no. Muy útil para cuando el juego que buscamos posee un nombre común, ya que nos saldrán muchos resultados al buscar en el mercado.
+This program helps us easily find the trading cards of the games that you want. It is ideal for farming, as it will allow us to calculate faster if the game is profitable or not. Very useful for when the game we are looking for has a common name, since we will get many results when searching in the market.
 
 ---
 
-INSTRUCCIONES:
+INSTRUCTIONS:
 
-Abrir el programa e ingresar el link de los juegos separados SOLAMENTE por una coma (","). Luego el programa abrirá automáticamente pestañas con los cromos de los juegos. En caso de que el juego no cuente con cromos o que el link ingresado no sea correcto, el programa lo indicará respectivamente.
+Open the program and enter the link of the games separated ONLY by a comma (","). Then the program will automatically open tabs with the trading cards. If the game does not have trading cards or the link entered is not correct, the program will indicate this respectively.
 
-Ejemplo de cómo usarlo:
-Supongamos que queremos buscar los cromos de "The witcher 3" y de "Elden Ring".
-Lo que deberiamos ingresar en el programa sería:
+Example of how to use it:
+Suppose we want to search for the trading cards for "The Witcher 3" and "Elden Ring".
+What we should enter in the program would be:
 https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/,https://store.steampowered.com/app/1245620/ELDEN_RING/
 
 ---
