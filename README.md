@@ -1,5 +1,7 @@
 # SteamTradingCards
 
+Program that automates the search for elements called 'trading cards' on the Steam gaming platform, showcasing proficiency in web scraping and automation. Implemented dynamic URL generation based on extracted Steam App IDs, ensuring adaptability to different game links. Utilized the requests library for HTTP requests, BeautifulSoup for web scraping, and colorama for enhanced console outputs. 
+
 This program helps us easily find the trading cards of the games that you want. It is ideal for farming, as it will allow us to calculate faster if the game is profitable or not. Very useful for when the game we are looking for has a common name, since we will get many results when searching in the market.
 
 ---
