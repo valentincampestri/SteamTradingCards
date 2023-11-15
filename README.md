@@ -23,4 +23,4 @@ Preview
 
 ---
 
-Mi perfil de Steam: https://steamcommunity.com/id/-Cosmodius-/
+My steam profile: https://steamcommunity.com/id/-Cosmodius-/
